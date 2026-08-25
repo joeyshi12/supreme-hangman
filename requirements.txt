@@ -1,2 +1,2 @@
+pygame-ce==2.5.5
 moviepy==1.0.3
-pygame==2.5.1
